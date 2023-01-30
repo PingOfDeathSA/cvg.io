@@ -12,7 +12,6 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d8e9b6203ce2657c991f0b339ccb3a6d",
-"assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "23621397bc1906a79180a918e98f35b2",
 "assets/packages/sign_in_button/assets/logos/2.0x/facebook_new.png": "dd8e500c6d946b0f7c24eb8b94b1ea8c",
 "assets/packages/sign_in_button/assets/logos/2.0x/google_dark.png": "68d675bc88e8b2a9079fdfb632a974aa",
 "assets/packages/sign_in_button/assets/logos/2.0x/google_light.png": "1f00e2bbc0c16b9e956bafeddebe7bf2",
@@ -33,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "709eabbfc20b8bb5da6e362acdc26778",
-"/": "709eabbfc20b8bb5da6e362acdc26778",
-"main.dart.js": "cc421e821d01ec6ab784898451c823fa",
+"index.html": "100b25c13dcb4290ee04da61b26e8843",
+"/": "100b25c13dcb4290ee04da61b26e8843",
+"main.dart.js": "d768905f7955b481ebfec94b6b814ad2",
 "manifest.json": "206ae1a23fe2e2ed60b2f5912c5539cc",
 "version.json": "61e853ae20dedcb4a5ece6b62808f93d"
 };
